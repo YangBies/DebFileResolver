@@ -1,0 +1,16 @@
+PODS:
+  - DebFileResolver (1.0.0)
+
+DEPENDENCIES:
+  - DebFileResolver (from `../`)
+
+EXTERNAL SOURCES:
+  DebFileResolver:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DebFileResolver: 2363a80a09e6fe7442167c6f31507ca38b582b4d
+
+PODFILE CHECKSUM: b819923e6db7623c37a0e561d07a736b646f235a
+
+COCOAPODS: 1.14.2

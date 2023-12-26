@@ -1,0 +1,6 @@
+framework module DebFileResolver {
+  umbrella header "DebFileResolver-umbrella.h"
+
+  export *
+  module * { export * }
+}
